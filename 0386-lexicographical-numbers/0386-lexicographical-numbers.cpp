@@ -1,10 +1,8 @@
 class Solution {
 public:
     void tree(int curr, int max, vector<int>& result) {
-        // int value = stoi(curr);
         if (curr > max)
             return;
-        // cout << value << endl;
         if (curr != 0) {
             result.push_back(curr);
             tree(curr * 10, max, result);
