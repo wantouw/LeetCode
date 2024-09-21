@@ -1,11 +1,14 @@
 class Solution {
 public:
-    void tree(int curr, int max, vector<int>& result){
+    void tree(int curr, int max, vector<int>& result) {
         // int value = stoi(curr);
-        if(curr > max || curr == 0) return;
+        if (curr > max)
+            return;
         // cout << value << endl;
-        if(curr!=0) result.push_back(curr);
-        tree(curr * 10, max, result);
+        if (curr != 0) {
+            result.push_back(curr);
+            tree(curr * 10, max, result);
+        }
         tree(curr * 10 + 1, max, result);
         tree(curr * 10 + 2, max, result);
         tree(curr * 10 + 3, max, result);
@@ -18,15 +21,7 @@ public:
     }
     vector<int> lexicalOrder(int n) {
         vector<int> result;
-        tree(1, n, result);
-        tree(2, n, result);
-        tree(3, n, result);
-        tree(4, n, result);
-        tree(5, n, result);
-        tree(6, n, result);
-        tree(7, n, result);
-        tree(8, n, result);
-        tree(9, n, result);
+        tree(0, n, result);
         return result;
     }
 };
