@@ -25,8 +25,8 @@ public:
              start >= *(dateEnd.find_by_order(smallerStart - 1))) &&
             (dateStart.find_by_order(smallerEnd) == dateStart.end() ||
              end <= *(dateStart.find_by_order(smallerEnd)))) {
-            cout << start << ' ' << *(dateEnd.find_by_order(smallerStart - 1))
-                 << endl;
+            // cout << start << ' ' << *(dateEnd.find_by_order(smallerStart - 1))
+                //  << endl;
             dateStart.insert(start);
             dateEnd.insert(end);
             return true;
