@@ -1,8 +1,7 @@
 class MyCalendar {
-private:
-    set<pair<int, int>> calendar;
-
 public:
+
+    set<pair<int, int>> calendar;
     bool book(int start, int end) {
         const pair<int, int> event{start, end};
         const auto nextEvent = calendar.lower_bound(event);
