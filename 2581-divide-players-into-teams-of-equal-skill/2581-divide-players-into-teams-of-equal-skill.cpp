@@ -1,24 +1,29 @@
 class Solution {
 public:
-    unordered_map<int, int> map;
+    
     long long dividePlayers(vector<int>& skill) {
-        int target = 0, sum = 0;
-        for(int value: skill){
-            map[value]++;
-            sum+= value;
-        }
-        target = sum / (skill.size() / 2);
+        // int target = 0, sum = 0;
+        sort(skill.begin(), skill.end());
+        // for(int value: skill){
+        //     map[value]++;
+        //     sum+= value;
+        // }
+        // target = sum / (skill.size() / 2);
+
+        // cout << skill << endl;
         long long int result = 0;
-        // cout << target << endl;
-        for(int value: skill){
-            if(map[target - value] > 0){
-                result+=value * (target - value);
-                // cout << result << endl;
-                map[target - value]--;
+        int target = skill[0] + skill[skill.size() - 1];
+        int length = skill.size();
+        for(int i = 0; i < length / 2 ; i++){
+            // cout << skill[i] << endl;
+            if(skill[i] + skill[length - 1 - i] == target){
+                result += skill[i] * skill[length - i - 1];
             }
-            else if(map[target - value] == 0) return -1;
+            else{
+                return -1;
+            }
         }
 
-        return result / 2;
+        return result;
     }
 };
