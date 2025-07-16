@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/wantouw/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [1013-fibonacci-number](https://github.com/wantouw/LeetCode/tree/master/1013-fibonacci-number) |
 | [2755-extra-characters-in-a-string](https://github.com/wantouw/LeetCode/tree/master/2755-extra-characters-in-a-string) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/wantouw/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Recursion
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/wantouw/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2755-extra-characters-in-a-string](https://github.com/wantouw/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/wantouw/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/wantouw/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Two Pointers
 |  |
 | ------- |
