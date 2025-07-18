@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/wantouw/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [1013-fibonacci-number](https://github.com/wantouw/LeetCode/tree/master/1013-fibonacci-number) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/wantouw/LeetCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2755-extra-characters-in-a-string](https://github.com/wantouw/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/wantouw/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/wantouw/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/wantouw/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1923-sentence-similarity-iii](https://github.com/wantouw/LeetCode/tree/master/1923-sentence-similarity-iii) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/wantouw/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/wantouw/LeetCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/wantouw/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/wantouw/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/wantouw/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/wantouw/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/wantouw/LeetCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/wantouw/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Tree
 |  |
