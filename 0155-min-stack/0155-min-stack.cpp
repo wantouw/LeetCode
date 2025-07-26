@@ -15,7 +15,7 @@ public:
     void push(int val) {
         Node* newNode = new Node(val);
         minStack.push(newNode);
-        cout << "value: " << val << endl;
+        // cout << "value: " << val << endl;
         if(head == nullptr){
             head = tail = newNode;
         }
