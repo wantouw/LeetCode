@@ -1,76 +1,41 @@
 class MinStack {
 public:
-    struct Node {
-        int value;
-        Node *prev, *next;
-        Node(int val): value(val), prev(nullptr), next(nullptr) {};
-    }*head, *tail;
-
-    stack<Node*> minStack;
-
+    stack<long long> minStack;
+    long long int min;
     MinStack() {
-        head = tail = nullptr;
+        min = LLONG_MAX;
     }
     
     void push(int val) {
-        Node* newNode = new Node(val);
-        minStack.push(newNode);
-        // cout << "value: " << val << endl;
-        if(head == nullptr){
-            head = tail = newNode;
+        long long x = val;
+        if(minStack.empty()){
+            minStack.push(x);
+            min = val;
         }
-        else{
-            if(val < head->value){
-                head->prev = newNode;
-                newNode->next = head;
-                head = newNode;
-            }
-            else if (val >= tail->value) {
-                tail->next = newNode;
-                newNode->prev = tail;
-                tail = newNode;
-            }
-            else {
-                Node *curr = head;
-                while(curr->next && curr->value <= val){
-                    curr = curr->next;
-                }
-                newNode->prev = curr->prev;
-                newNode->next = curr;
-                curr->prev->next = newNode;
-                curr->prev = newNode;
-            }
+        else if(x >= min){
+            minStack.push(x);
+        }
+        else if(x < min){
+            int old = min;
+            min = x;
+            minStack.push(2*min - old);
         }
     }
     
     void pop() {
-        Node* deleted = minStack.top();
-        if(deleted == head && deleted == tail){
-            head = tail = nullptr;
-        }
-        else if(deleted == head){
-            head = head->next;
-            head->prev = nullptr;
-        }
-        else if(deleted == tail){
-            tail = tail->prev;
-            tail->next = nullptr;
-        }
-        else {
-            deleted->prev->next = deleted->next;
-            deleted->next->prev = deleted->prev;
-        }
-        delete deleted;
-        deleted = nullptr;
+        long long int top = minStack.top();
+        if(top < min) min = 2*min - top;
         minStack.pop();
     }
     
     int top() {
-        return minStack.top()->value;
+        long long int top = minStack.top();
+        if(top < min) return min;
+        return top;
     }
     
     int getMin() {
-        return head->value;
+        return min;
     }
 };
 
