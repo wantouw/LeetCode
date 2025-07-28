@@ -18,6 +18,6 @@ public:
         for(auto num: nums){
             maxOr|=num;
         }
-        return recursiveOr(nums, size, 0, 0 | nums[0], maxOr, result) + recursiveOr(nums, size, 0, 0, maxOr, result) ;
+        return recursiveOr(nums, size, -1, 0, maxOr, result);
     }
 };
