@@ -2,14 +2,16 @@ class Solution {
 public:
     vector<int> smallestSubarrays(vector<int>& nums) {
         int n = nums.size();
-        vector<int> lastSeen(30, 0), res(n, 1);
-        for (int i = n - 1; i >= 0; --i) {
-            for (int bit = 0; bit < 30; ++bit) {
-                if ((nums[i] & (1 << bit)) > 0)
-                    lastSeen[bit] = i;
-                res[i] = max(res[i], lastSeen[bit] - i + 1);
+        vector<int> lastSeen(30, 0), result(n, 1);
+        for(int j = n-1 ; j >= 0 ; j--){
+            for(int i = 0 ; i < 30 ; i++){
+                if((nums[j] & (1 << i)) > 0){
+                    // cout << "saw " << i << " on " << nums[j] << endl; 
+                    lastSeen[i] = j;
+                }
+                result[j] = max(result[j], lastSeen[i] - j + 1);
             }
         }
-        return res;
+        return result;
     }
 };
