@@ -12,7 +12,9 @@ public:
                 maxCount = 1;
                 continue;
             }
-            if(nums[i]!=nums[i-1]) count = 0;
+            if(nums[i]!=nums[i-1]){
+                count = 0;
+            }    
             if(nums[i] == maxNum){
                 count++;
                 maxCount = max(maxCount, count);
