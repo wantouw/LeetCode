@@ -3,7 +3,6 @@ public:
     int subarrayBitwiseORs(vector<int>& arr) {
         unordered_set<int> ors;
         unordered_set<int> result;
-        int count = 0;
         int size = arr.size();
         for(int i = 0 ; i < size; i++){
             unordered_set<int> curr;
