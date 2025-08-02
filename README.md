@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/wantouw/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/wantouw/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/wantouw/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2689-rearranging-fruits](https://github.com/wantouw/LeetCode/tree/master/2689-rearranging-fruits) |
 | [2755-extra-characters-in-a-string](https://github.com/wantouw/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/wantouw/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/wantouw/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/wantouw/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/wantouw/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/wantouw/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2689-rearranging-fruits](https://github.com/wantouw/LeetCode/tree/master/2689-rearranging-fruits) |
 ## Greedy
 |  |
 | ------- |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1818-maximum-score-from-removing-substrings](https://github.com/wantouw/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/wantouw/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/wantouw/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2689-rearranging-fruits](https://github.com/wantouw/LeetCode/tree/master/2689-rearranging-fruits) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/wantouw/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Hash Table
 |  |
@@ -135,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2079-delete-duplicate-folders-in-system](https://github.com/wantouw/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/wantouw/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/wantouw/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
+| [2689-rearranging-fruits](https://github.com/wantouw/LeetCode/tree/master/2689-rearranging-fruits) |
 | [2755-extra-characters-in-a-string](https://github.com/wantouw/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/wantouw/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/wantouw/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
