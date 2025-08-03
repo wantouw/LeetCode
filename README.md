@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/wantouw/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/wantouw/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/wantouw/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/wantouw/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/wantouw/LeetCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/wantouw/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/wantouw/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/wantouw/LeetCode/tree/master/0731-my-calendar-ii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/wantouw/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/wantouw/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/wantouw/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/wantouw/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/wantouw/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Brainteaser
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0729-my-calendar-i](https://github.com/wantouw/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/wantouw/LeetCode/tree/master/0731-my-calendar-ii) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/wantouw/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/wantouw/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 ## Design
 |  |
@@ -262,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0567-permutation-in-string](https://github.com/wantouw/LeetCode/tree/master/0567-permutation-in-string) |
 | [1813-maximum-erasure-value](https://github.com/wantouw/LeetCode/tree/master/1813-maximum-erasure-value) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/wantouw/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/wantouw/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 ## Simulation
 |  |
