@@ -10,7 +10,6 @@ public:
             sum+=fruits[right][1];
             while(left<=right && minTraversal(fruits[left][0], fruits[right][0], startPos) > k){
                 sum-=fruits[left++][1];
-                // left++;
             }
             result = max(sum, result);
         }
