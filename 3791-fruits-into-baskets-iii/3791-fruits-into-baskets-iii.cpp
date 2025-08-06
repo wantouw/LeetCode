@@ -2,7 +2,6 @@ class Solution {
 public:
     void build(vector<int>& baskets, vector<int>& segmentTree, int left, int right, int index){
         if(left == right){
-            // cout << index << " " << left << endl;
             segmentTree[index] = baskets[left];
             return;
         }
