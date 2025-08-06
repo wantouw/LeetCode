@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/wantouw/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/wantouw/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/wantouw/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [3791-fruits-into-baskets-iii](https://github.com/wantouw/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/wantouw/LeetCode/tree/master/0731-my-calendar-ii) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/wantouw/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/wantouw/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [3791-fruits-into-baskets-iii](https://github.com/wantouw/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
 ## Design
 |  |
 | ------- |
@@ -231,11 +233,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/wantouw/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/wantouw/LeetCode/tree/master/0731-my-calendar-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/wantouw/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [3791-fruits-into-baskets-iii](https://github.com/wantouw/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
 ## Ordered Set
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/wantouw/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/wantouw/LeetCode/tree/master/0731-my-calendar-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/wantouw/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
 ## Linked List
 |  |
 | ------- |
