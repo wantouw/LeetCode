@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/wantouw/LeetCode/tree/master/0009-palindrome-number) |
 | [0241-different-ways-to-add-parentheses](https://github.com/wantouw/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/wantouw/Leetcode/tree/master/0539-minimum-time-difference) |
+| [0826-soup-servings](https://github.com/wantouw/LeetCode/tree/master/0826-soup-servings) |
 | [1013-fibonacci-number](https://github.com/wantouw/LeetCode/tree/master/1013-fibonacci-number) |
 ## String
 |  |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/wantouw/LeetCode/tree/master/0118-pascals-triangle) |
 | [0241-different-ways-to-add-parentheses](https://github.com/wantouw/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0826-soup-servings](https://github.com/wantouw/LeetCode/tree/master/0826-soup-servings) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/wantouw/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1013-fibonacci-number](https://github.com/wantouw/LeetCode/tree/master/1013-fibonacci-number) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/wantouw/LeetCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
@@ -318,4 +320,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/wantouw/LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0826-soup-servings](https://github.com/wantouw/LeetCode/tree/master/0826-soup-servings) |
 <!---LeetCode Topics End-->
