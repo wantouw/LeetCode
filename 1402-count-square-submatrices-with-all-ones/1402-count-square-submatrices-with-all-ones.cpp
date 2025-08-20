@@ -18,13 +18,8 @@ public:
                     }
                     result += dp[i][j];
                 }
-                // cout << dp[i][j] << " ";
             }
-            // cout << endl;
         }
-        // 0 1 1 1 [0 1 1 1]
-        // 1 1 1 1 [1 1 2 2]
-        // 0 1 1 1 [0 1 2 3]
         return result;
     }
 };
