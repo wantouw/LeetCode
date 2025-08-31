@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/wantouw/LeetCode/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/wantouw/LeetCode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/wantouw/LeetCode/tree/master/0037-sudoku-solver) |
 | [0088-merge-sorted-array](https://github.com/wantouw/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/wantouw/LeetCode/tree/master/0118-pascals-triangle) |
 | [0134-gas-station](https://github.com/wantouw/LeetCode/tree/master/0134-gas-station) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/wantouw/LeetCode/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/wantouw/LeetCode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/wantouw/LeetCode/tree/master/0037-sudoku-solver) |
 | [0146-lru-cache](https://github.com/wantouw/LeetCode/tree/master/0146-lru-cache) |
 | [0432-all-oone-data-structure](https://github.com/wantouw/LeetCode/tree/master/0432-all-oone-data-structure) |
 | [0567-permutation-in-string](https://github.com/wantouw/LeetCode/tree/master/0567-permutation-in-string) |
@@ -347,12 +349,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/wantouw/LeetCode/tree/master/0037-sudoku-solver) |
 | [0679-24-game](https://github.com/wantouw/LeetCode/tree/master/0679-24-game) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/wantouw/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Matrix
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/wantouw/LeetCode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/wantouw/LeetCode/tree/master/0037-sudoku-solver) |
 | [0498-diagonal-traverse](https://github.com/wantouw/LeetCode/tree/master/0498-diagonal-traverse) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/wantouw/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/wantouw/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
