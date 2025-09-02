@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/wantouw/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/wantouw/LeetCode/tree/master/1013-fibonacci-number) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/wantouw/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/wantouw/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## String
 |  |
 | ------- |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/wantouw/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2689-rearranging-fruits](https://github.com/wantouw/LeetCode/tree/master/2689-rearranging-fruits) |
 | [2755-extra-characters-in-a-string](https://github.com/wantouw/LeetCode/tree/master/2755-extra-characters-in-a-string) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/wantouw/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/wantouw/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/wantouw/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/wantouw/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/wantouw/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/wantouw/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2689-rearranging-fruits](https://github.com/wantouw/LeetCode/tree/master/2689-rearranging-fruits) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/wantouw/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/wantouw/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Greedy
 |  |
@@ -348,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/wantouw/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/wantouw/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/wantouw/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/wantouw/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Backtracking
 |  |
@@ -371,4 +375,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0826-soup-servings](https://github.com/wantouw/LeetCode/tree/master/0826-soup-servings) |
+## Geometry
+|  |
+| ------- |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/wantouw/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 <!---LeetCode Topics End-->
