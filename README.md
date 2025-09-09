@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/wantouw/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/wantouw/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/wantouw/LeetCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/wantouw/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2755-extra-characters-in-a-string](https://github.com/wantouw/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/wantouw/LeetCode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/wantouw/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0859-design-circular-deque](https://github.com/wantouw/LeetCode/tree/master/0859-design-circular-deque) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/wantouw/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/wantouw/LeetCode/tree/master/0498-diagonal-traverse) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/wantouw/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/wantouw/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Monotonic Stack
 |  |
