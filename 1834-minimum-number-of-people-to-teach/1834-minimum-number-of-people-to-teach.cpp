@@ -25,12 +25,10 @@ public:
             int count = 0;
             for (int j = 0; j < languages.size(); j++)
             {
-                // cout << j << " " << need[j] << " " << learned[j][i] << endl;
                 if (need[j] && !learned[j][i])
                     count++;
             }
-            // if (count > 0)
-                result = min(result, count);
+            result = min(result, count);
         }
         return result;
     }
