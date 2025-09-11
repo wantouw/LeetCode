@@ -5,26 +5,18 @@ public:
         return false;
     }
     string sortVowels(string s) {
-        vector<char> vowels = {'A', 'E', 'I', 'O', 'U', 'a', 'e', 'i', 'o', 'u'};
-        unordered_map<char, int> counts;
-        vector<int> positions;
-        for(int i = 0 ; i < s.length() ; i++){
-            if(isVowel(s[i])){
-                counts[s[i]]++;
-                positions.push_back(i);
+        vector<char> vowels;
+        for(auto c: s){
+            if(isVowel(c)){
+                vowels.push_back(c);
             }
         }
-        int start = 0;
-        for(int i = 0 ; i < positions.size() ; i++){
-            cout << vowels[start] << " " << counts[vowels[start]] << endl;
-            // cout << counts[vowels[start]]] << endl;
-            if(counts[vowels[start]] == 0){
-                start++;
-                i--;
-                continue;
+        sort(vowels.begin(), vowels.end());
+        int idx = 0;
+        for(char& c: s){
+            if(isVowel(c)){
+                c = vowels[idx++];
             }
-            s[positions[i]] = vowels[start];
-            counts[vowels[start]]--;
         }
         return s;
     }
