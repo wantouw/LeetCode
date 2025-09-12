@@ -20,25 +20,7 @@ public:
             if(isVowel(c)){
                 count++;
             } 
-            // else {
-            //     if(count > 0){
-            //         if(count % 2 == 0) evenCount++;
-            //         else oddCount++;
-            //         count = 0;
-            //     }
-            // }
         }
-        // if(count > 0){
-        //     if(count % 2 == 0) evenCount++;
-        //     else oddCount++;
-        //     count = 0;
-        // }
-        // if(oddCount == evenCount){
-        //     return false;
-        // }
-        // else {
-        //     return oddCount > evenCount;
-        // }
         if(count > 0) return true;
         return false;
     }
