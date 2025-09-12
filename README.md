@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2432-number-of-zero-filled-subarrays](https://github.com/wantouw/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/wantouw/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/wantouw/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3462-vowels-game-in-a-string](https://github.com/wantouw/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/wantouw/LeetCode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3830-find-closest-person](https://github.com/wantouw/LeetCode/tree/master/3830-find-closest-person) |
 ## String
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/wantouw/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2887-sort-vowels-in-a-string](https://github.com/wantouw/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/wantouw/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3462-vowels-game-in-a-string](https://github.com/wantouw/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/wantouw/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [3462-vowels-game-in-a-string](https://github.com/wantouw/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -397,4 +400,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/wantouw/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/wantouw/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+## Game Theory
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/wantouw/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
