@@ -29,7 +29,6 @@ public:
     int size;
 
     Router(int memoryLimit) {
-        // dataSet = unordered_set<Data>(memoryLimit);
         size = memoryLimit;
         left = right = 0;
     }
@@ -48,10 +47,8 @@ public:
                 lefts[pushed.destination]++;
             }
             rights[destination]++;
-            print();
             return true;
         }
-        print();
         return false;
     }
     
@@ -63,16 +60,7 @@ public:
         dataSet.erase(pushed);
         dataQueue.pop();
         lefts[pushed.destination]++;
-        // cout << "forward" << endl;
-        print();
         return vector<int> {pushed.source, pushed.destination, pushed.timestamp};
-    }
-
-    void print(){
-        // for(int i = left ; i < right ; i++){
-        //     cout << dataVector[i].destination << " ";
-        // }
-        // cout << endl;
     }
     
     int getCount(int destination, int startTime, int endTime) {
@@ -80,41 +68,30 @@ public:
         int low = lefts[destination], high = rights[destination] - 1;
         if(lefts[destination] == rights[destination]) return 0;
         while(low < high){
-            // cout << low << " " << high << endl;
             int mid = (low + high) / 2;
             if(destinationVectors[destination][mid].timestamp < startTime){
-                // cout << "cond 1" << endl;
                 low = mid+1;
             }
             else {
-                // cout << "cond 2" << endl;
                 high = mid-1;
             }
         }
-        print();
-        // cout << low << endl;
+        low = max(lefts[destination], low);
         int leftLimit = destinationVectors[destination][low].timestamp < startTime ? low + 1 : low;
-        // int leftLimit = (low + high) / 2;
 
         low = lefts[destination];
         high = rights[destination] - 1;
         while(low <= high){
-            // cout << low << " " << high << endl;
             int mid = (low + high) / 2;
             if(destinationVectors[destination][mid].timestamp <= endTime){
-                // cout << "cond 1" << endl;
                 low = mid+1;
             }
             else {
-                // cout << "cond 2" << endl;
-                // if(mid == 0) break;
                 high = mid-1;
             }
         }
         high = max(0, high);
-        // cout << high << endl;
         int rightLimit = (high >= rights[destination]) ? high-1 : high;
-        // int rightLimit = (low + high) / 2;
         if(rightLimit == leftLimit && !(destinationVectors[destination][rightLimit].timestamp <= endTime && destinationVectors[destination][rightLimit].timestamp >= startTime)){
             return 0;
         }
