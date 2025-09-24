@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/wantouw/LeetCode/tree/master/0009-palindrome-number) |
+| [0166-fraction-to-recurring-decimal](https://github.com/wantouw/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0241-different-ways-to-add-parentheses](https://github.com/wantouw/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0326-power-of-three](https://github.com/wantouw/LeetCode/tree/master/0326-power-of-three) |
 | [0539-minimum-time-difference](https://github.com/wantouw/Leetcode/tree/master/0539-minimum-time-difference) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/wantouw/LeetCode/tree/master/0020-valid-parentheses) |
 | [0165-compare-version-numbers](https://github.com/wantouw/LeetCode/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/wantouw/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0179-largest-number](https://github.com/wantouw/Leetcode/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/wantouw/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/wantouw/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/wantouw/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/wantouw/LeetCode/tree/master/0037-sudoku-solver) |
 | [0146-lru-cache](https://github.com/wantouw/LeetCode/tree/master/0146-lru-cache) |
+| [0166-fraction-to-recurring-decimal](https://github.com/wantouw/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0432-all-oone-data-structure](https://github.com/wantouw/LeetCode/tree/master/0432-all-oone-data-structure) |
 | [0567-permutation-in-string](https://github.com/wantouw/LeetCode/tree/master/0567-permutation-in-string) |
 | [0900-reordered-power-of-2](https://github.com/wantouw/LeetCode/tree/master/0900-reordered-power-of-2) |
