@@ -12,7 +12,6 @@ public:
                     triangle[i][j] = curr + triangle[i-1][j-1];
                 }
                 else if(j > 0){
-                    cout << i << " " << j << endl;
                     triangle[i][j] = min(curr + triangle[i-1][j], curr + triangle[i-1][j-1]);
                 }
                 else {
