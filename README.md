@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/wantouw/LeetCode/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/wantouw/LeetCode/tree/master/0120-triangle) |
 | [0241-different-ways-to-add-parentheses](https://github.com/wantouw/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0826-soup-servings](https://github.com/wantouw/LeetCode/tree/master/0826-soup-servings) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/wantouw/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/wantouw/LeetCode/tree/master/0037-sudoku-solver) |
 | [0088-merge-sorted-array](https://github.com/wantouw/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/wantouw/LeetCode/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/wantouw/LeetCode/tree/master/0120-triangle) |
 | [0134-gas-station](https://github.com/wantouw/LeetCode/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/wantouw/Leetcode/tree/master/0179-largest-number) |
 | [0498-diagonal-traverse](https://github.com/wantouw/LeetCode/tree/master/0498-diagonal-traverse) |
