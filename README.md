@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/wantouw/LeetCode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/wantouw/LeetCode/tree/master/0011-container-with-most-water) |
 | [0036-valid-sudoku](https://github.com/wantouw/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/wantouw/LeetCode/tree/master/0037-sudoku-solver) |
 | [0088-merge-sorted-array](https://github.com/wantouw/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/wantouw/LeetCode/tree/master/0011-container-with-most-water) |
 | [0088-merge-sorted-array](https://github.com/wantouw/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0165-compare-version-numbers](https://github.com/wantouw/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0567-permutation-in-string](https://github.com/wantouw/LeetCode/tree/master/0567-permutation-in-string) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/wantouw/LeetCode/tree/master/0011-container-with-most-water) |
 | [0134-gas-station](https://github.com/wantouw/LeetCode/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/wantouw/Leetcode/tree/master/0179-largest-number) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/wantouw/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
