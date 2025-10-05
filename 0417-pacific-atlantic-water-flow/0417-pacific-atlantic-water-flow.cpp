@@ -16,19 +16,12 @@ public:
         }
         if(j > 0 && heights[i][j-1] >= heights[i][j]){
             dfs(i, j-1, heights, sea);
-            // cout << endl <<  "i: " << i << ' ' << j << ' ' << neighbor << endl;
-            // if(neighbor != result) result += neighbor;
-            // atlantic[i][j] = result;
         }
         if(j < width - 1 && heights[i][j+1] >= heights[i][j]){
             dfs(i, j+1, heights, sea);
-            // if(neighbor != result) result += neighbor;
-            // atlantic[i][j] = result;
         }
         if(i < length - 1 && heights[i+1][j] >= heights[i][j]){
             dfs(i+1, j, heights, sea);
-            // if(neighbor != result) result += neighbor;
-            // atlantic[i][j] = result;
         }
         return 0;
     }
@@ -41,10 +34,6 @@ public:
         for(int i = 0 ; i < length ; i++){
             dfs(i, 0, heights, pacific);
             dfs(i, width - 1, heights, atlantic);
-            // dfs(0, i, heights, pacific);
-            // dfs(length - 1, i, heights, atlantic);
-            // atlantic[i][0] += 1;
-            // atlantic[i][width-1] += 2;
         }
         for(int i = 0 ; i < width ; i++){
             dfs(0, i, heights, pacific);
@@ -53,12 +42,8 @@ public:
         vector<vector<int>> result;
         for(int i = 0 ; i < heights.size() ; i++){
             for(int j = 0 ; j < heights[i].size() ; j++){
-                // int flag = dfs(i, j, heights);
-                // cout << atlantic[i][j] << ' ';
-                // if(flag >= 3) result.push_back(vector<int>{i, j});
                 if(pacific[i][j] && atlantic[i][j]) result.push_back(vector<int>{i, j});
             }
-            // cout << endl;
         }
         return result;
     }
