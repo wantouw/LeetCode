@@ -87,7 +87,6 @@ public:
                 if(coordinates[endpoint]->parent == coordinates[startpoint]->parent) return i;
             }
         }
-        int result = 0;
-        return result;
+        return 0;
     }
 };
