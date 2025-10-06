@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0679-24-game](https://github.com/wantouw/LeetCode/tree/master/0679-24-game) |
 | [0729-my-calendar-i](https://github.com/wantouw/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/wantouw/LeetCode/tree/master/0731-my-calendar-ii) |
+| [0794-swim-in-rising-water](https://github.com/wantouw/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0859-design-circular-deque](https://github.com/wantouw/LeetCode/tree/master/0859-design-circular-deque) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/wantouw/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/wantouw/LeetCode/tree/master/0940-fruit-into-baskets) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/wantouw/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0417-pacific-atlantic-water-flow](https://github.com/wantouw/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0794-swim-in-rising-water](https://github.com/wantouw/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0988-flip-equivalent-binary-trees](https://github.com/wantouw/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/wantouw/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/wantouw/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0729-my-calendar-i](https://github.com/wantouw/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/wantouw/LeetCode/tree/master/0731-my-calendar-ii) |
+| [0794-swim-in-rising-water](https://github.com/wantouw/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/wantouw/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/wantouw/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3791-fruits-into-baskets-iii](https://github.com/wantouw/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
@@ -379,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0794-swim-in-rising-water](https://github.com/wantouw/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [1917-maximum-average-pass-ratio](https://github.com/wantouw/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2023-design-movie-rental-system](https://github.com/wantouw/LeetCode/tree/master/2023-design-movie-rental-system) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/wantouw/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -394,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/wantouw/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0794-swim-in-rising-water](https://github.com/wantouw/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/wantouw/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Binary Tree
 |  |
@@ -421,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/wantouw/LeetCode/tree/master/0037-sudoku-solver) |
 | [0417-pacific-atlantic-water-flow](https://github.com/wantouw/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0498-diagonal-traverse](https://github.com/wantouw/LeetCode/tree/master/0498-diagonal-traverse) |
+| [0794-swim-in-rising-water](https://github.com/wantouw/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/wantouw/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/wantouw/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/wantouw/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -444,4 +450,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/wantouw/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
+## Union Find
+|  |
+| ------- |
+| [0794-swim-in-rising-water](https://github.com/wantouw/LeetCode/tree/master/0794-swim-in-rising-water) |
 <!---LeetCode Topics End-->
