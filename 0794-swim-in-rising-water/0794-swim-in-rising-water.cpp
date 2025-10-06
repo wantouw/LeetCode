@@ -55,14 +55,11 @@ public:
         Node* parentNode = coordinates[neighborNode->parent];
         Node* currParentNode = coordinates[currNode->parent];
         if(parentNode == currParentNode) return;
-        // cout << "curr: " << currNode->value << ", neighbor: " << neighbor << endl;
         for(auto child: parentNode->childrens){
-            // cout << child << ' ';
             Node* childNode = coordinates[child];
             childNode->parent = currParentNode->value;
             currParentNode->childrens.push_back(child);
         }
-        // cout << endl;
         parentNode->childrens.clear();
         parentNode->parent = currParentNode->value;
         currParentNode->childrens.push_back(parentNode->value);
@@ -70,7 +67,6 @@ public:
     }
 
     void unionSet(Node* neighborNode, int neighbor, Node* currNode){
-        // cout << "curr: " << currNode->value << ", neighbor: " << neighbor << endl;
         Node* parentNode = coordinates[neighborNode->parent];
         currNode->parent = parentNode->value;
         parentNode->childrens.push_back(currNode->value);
@@ -88,7 +84,6 @@ public:
         for(int i = 0 ; i < length * length ; i++){
             if(coordinates[i] != nullptr){
                 connect(coordinates[i], i, grid);
-                // cout << i << " endpoint parent: " << coordinates[endpoint]->parent << " startpoint parent: " << coordinates[startpoint]->parent << endl;
                 if(coordinates[endpoint]->parent == coordinates[startpoint]->parent) return i;
             }
         }
