@@ -2,15 +2,10 @@ class Solution {
 public:
     int countValidSelections(vector<int>& nums) {
         vector<int> sums = vector<int>(nums.size(), 0);
-        // cout << "hai" << endl;
         for(int i = 0 ; i < nums.size() ; i++){
-            // cout << i << endl;
-            
             sums[i]+=nums[i];
             if(i > 0) sums[i]+=sums[i-1];
-            // cout << i << endl;
         }
-        // cout << "hai" << endl;
         int result = 0;
         int left = 0, right = 0;
         for(int i = 0 ; i < nums.size() ;  i++){
