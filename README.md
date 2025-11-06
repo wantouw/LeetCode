@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/wantouw/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3791-fruits-into-baskets-iii](https://github.com/wantouw/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
 | [3827-implement-router](https://github.com/wantouw/LeetCode/tree/master/3827-implement-router) |
+| [3863-power-grid-maintenance](https://github.com/wantouw/LeetCode/tree/master/3863-power-grid-maintenance) |
 ## Two Pointers
 |  |
 | ------- |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/wantouw/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/wantouw/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3827-implement-router](https://github.com/wantouw/LeetCode/tree/master/3827-implement-router) |
+| [3863-power-grid-maintenance](https://github.com/wantouw/LeetCode/tree/master/3863-power-grid-maintenance) |
 ## Counting
 |  |
 | ------- |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/wantouw/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/wantouw/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/wantouw/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
+| [3863-power-grid-maintenance](https://github.com/wantouw/LeetCode/tree/master/3863-power-grid-maintenance) |
 ## Trie
 |  |
 | ------- |
@@ -361,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2023-design-movie-rental-system](https://github.com/wantouw/LeetCode/tree/master/2023-design-movie-rental-system) |
 | [3791-fruits-into-baskets-iii](https://github.com/wantouw/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
 | [3827-implement-router](https://github.com/wantouw/LeetCode/tree/master/3827-implement-router) |
+| [3863-power-grid-maintenance](https://github.com/wantouw/LeetCode/tree/master/3863-power-grid-maintenance) |
 ## Linked List
 |  |
 | ------- |
@@ -430,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/wantouw/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/wantouw/LeetCode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/wantouw/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3863-power-grid-maintenance](https://github.com/wantouw/LeetCode/tree/master/3863-power-grid-maintenance) |
 ## Tree
 |  |
 | ------- |
@@ -442,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/wantouw/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/wantouw/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/wantouw/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
+| [3863-power-grid-maintenance](https://github.com/wantouw/LeetCode/tree/master/3863-power-grid-maintenance) |
 ## Binary Tree
 |  |
 | ------- |
@@ -498,4 +504,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0794-swim-in-rising-water](https://github.com/wantouw/LeetCode/tree/master/0794-swim-in-rising-water) |
+| [3863-power-grid-maintenance](https://github.com/wantouw/LeetCode/tree/master/3863-power-grid-maintenance) |
+## Graph
+|  |
+| ------- |
+| [3863-power-grid-maintenance](https://github.com/wantouw/LeetCode/tree/master/3863-power-grid-maintenance) |
 <!---LeetCode Topics End-->
