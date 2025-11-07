@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/wantouw/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2529-range-product-queries-of-powers](https://github.com/wantouw/LeetCode/tree/master/2529-range-product-queries-of-powers) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/wantouw/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/wantouw/LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2689-rearranging-fruits](https://github.com/wantouw/LeetCode/tree/master/2689-rearranging-fruits) |
 | [2755-extra-characters-in-a-string](https://github.com/wantouw/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/wantouw/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1917-maximum-average-pass-ratio](https://github.com/wantouw/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/wantouw/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/wantouw/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/wantouw/LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2689-rearranging-fruits](https://github.com/wantouw/LeetCode/tree/master/2689-rearranging-fruits) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/wantouw/LeetCode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/wantouw/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/wantouw/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/wantouw/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2529-range-product-queries-of-powers](https://github.com/wantouw/LeetCode/tree/master/2529-range-product-queries-of-powers) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/wantouw/LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/wantouw/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/wantouw/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/wantouw/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
@@ -335,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/wantouw/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/wantouw/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/wantouw/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/wantouw/LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3791-fruits-into-baskets-iii](https://github.com/wantouw/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
 | [3827-implement-router](https://github.com/wantouw/LeetCode/tree/master/3827-implement-router) |
 ## Design
@@ -376,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0859-design-circular-deque](https://github.com/wantouw/LeetCode/tree/master/0859-design-circular-deque) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/wantouw/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/wantouw/LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3827-implement-router](https://github.com/wantouw/LeetCode/tree/master/3827-implement-router) |
 ## Doubly-Linked List
 |  |
@@ -403,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-maximum-erasure-value](https://github.com/wantouw/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/wantouw/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/wantouw/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/wantouw/LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/wantouw/LeetCode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/wantouw/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Simulation
