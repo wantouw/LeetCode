@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/wantouw/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/wantouw/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1923-sentence-similarity-iii](https://github.com/wantouw/LeetCode/tree/master/1923-sentence-similarity-iii) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/wantouw/Leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/wantouw/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/wantouw/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/wantouw/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/wantouw/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1813-maximum-erasure-value](https://github.com/wantouw/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/wantouw/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/wantouw/Leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2023-design-movie-rental-system](https://github.com/wantouw/LeetCode/tree/master/2023-design-movie-rental-system) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/wantouw/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/wantouw/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1435-xor-queries-of-a-subarray](https://github.com/wantouw/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/wantouw/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/wantouw/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/wantouw/Leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/wantouw/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/wantouw/Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/wantouw/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -290,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/wantouw/LeetCode/tree/master/0731-my-calendar-ii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/wantouw/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/wantouw/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/wantouw/Leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/wantouw/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/wantouw/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2529-range-product-queries-of-powers](https://github.com/wantouw/LeetCode/tree/master/2529-range-product-queries-of-powers) |
